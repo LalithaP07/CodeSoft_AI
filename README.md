@@ -1,4 +1,8 @@
 # CodeSoft_AI
+Welcome to my Artificial Intelligence Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at Codsoft. Each project showcases my skills in data analysis, Artificial Intelligence, and problem-solving. Below is a summary of the projects:
+
+Any three tasks have to be completed
+
 🔹 Task 1: Chatbot with Rule-Based Responses
 Description:
 Developed a simple chatbot that interacts with users through predefined rule-based responses. Implemented using basic if-else conditions and pattern matching to simulate conversation flow. This task introduced me to fundamental natural language processing (NLP) concepts.
